@@ -91,8 +91,6 @@
 
 })(this);
 
-
-
 $(document).ready(function() {
 	var new_view = new SnakeGame.View($("body"));
 	new_view.start();
